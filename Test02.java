@@ -6,7 +6,7 @@ class Test02 {
 
 		String s1;
 		s1 = "Rishabh";
-        System.out.println(s1);
+                System.out.println(s1);
 
 		int p;
 		p = 50;
@@ -41,11 +41,11 @@ class Test02 {
 		String str4 = "d";
 		String str5 = "e";
 
-        System.out.println(str1);
-        System.out.println(str2);
-        System.out.println(str3);
-        System.out.println(str4);
-        System.out.println(str5);
+                System.out.println(str1);
+                System.out.println(str2);
+                System.out.println(str3);
+                System.out.println(str4);
+                System.out.println(str5);
 
 		//=====================================================
 
